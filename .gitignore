@@ -1,0 +1,4 @@
+*.swp
+*.swo
+tmp
+frameworks/fire_core
